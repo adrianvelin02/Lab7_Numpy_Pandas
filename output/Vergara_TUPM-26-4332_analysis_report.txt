@@ -1,0 +1,19 @@
+SECOM NUMERICAL DATA ANALYSIS
+Student: Vergara
+Student ID: TUPM-26-4332
+Random Seed: 264332
+Verification Value: 142
+Sample Size: 220
+Assigned Features: Feature_553, Feature_270, Feature_476, Feature_416, Feature_437
+Pass Records: 209
+Fail Records: 11
+Sample Failure: 5.00%
+Highest-SD Feature: Feature_476
+Highest Sample SD: 12.4598
+Verification: PASSED
+
+Interpretation Notes:
+- Median imputation supports descriptive analysis.
+- Raw variability does not imply feature importance.
+- Group differences do not establish failure causes.
+- Sample failure percentage is not prediction accuracy.
